@@ -70,13 +70,6 @@ Sigue los pasos a continuación para clonar y ejecutar el proyecto en tu máquin
 - **palabras.txt** *(opcional)*: Archivo con una lista de palabras para el juego (si implementado).
 - **README.md**: Documentación del proyecto.
 
----
-
-## 🎨 **Capturas de Pantalla**
-
-> *(Opcional: Incluye imágenes o capturas de pantalla que muestren el juego en funcionamiento.)*
-
----
 
 ## 🤝 **Contribuciones**
 
